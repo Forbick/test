@@ -1,0 +1,3 @@
+﻿  task2.cpp
+C:\Users\barar\source\repos\task2\task2\task2.cpp(30,6): warning C4804: <: небезопасное использование типа "bool" в операции
+  task2.vcxproj -> C:\Users\barar\source\repos\task2\Debug\task2.exe
